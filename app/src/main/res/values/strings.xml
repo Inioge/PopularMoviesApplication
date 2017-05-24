@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies Application</string>
+    <string name="title_activity_movie_details">MovieDetailsActivity</string>
+    <string name="settings">Settings</string>
+
+    <string name="popular">Popular</string>
+    <string name="popular_summary">This will arrange the list in order of most popular to the least popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="top_summary">This will arrange the list in order of top rated to the least rated</string>
+    <string name="toast">Please check your connection and try again</string>
+    <string name="failure_message">Something went wrong, please check your internet connection and try again</string>
+    <string name="api_key_error_message">Please obtain your API KEY first from themoviedb.org</string>
+
+</resources>

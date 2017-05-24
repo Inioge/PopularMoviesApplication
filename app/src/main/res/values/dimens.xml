@@ -1,0 +1,18 @@
+<resources>
+    <!--dimensions for textviews-->
+    <dimen name="rating_text">16sp</dimen>
+    <dimen name="overview">16sp</dimen>
+    <dimen name="date_text">24sp</dimen>
+    <dimen name="title_text">30sp</dimen>
+
+    <!--dimensions for pixels-->
+    <dimen name="pixel">2dp</dimen>
+    <dimen name="pixel1">5dp</dimen>
+    <dimen name="pixel2">8dp</dimen>
+    <dimen name="pixel3">10dp</dimen>
+    <dimen name="pixel4">15dp</dimen>
+    <dimen name="pixel5">16dp</dimen>
+    <dimen name="pixel6">20dp</dimen>
+    <dimen name="pixel7">100dp</dimen>
+
+</resources>
